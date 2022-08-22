@@ -1,7 +1,7 @@
 ## **Anton Bondarev** 
 ----------------------
 ### Qa Engineer
-Riga, Latvia, +371 27856721, avbondarev04@gmail.com, linkedin.com/in/avbondarev/
+Riga, Latvia, +371 27856721, avbondarev04@gmail.com, [in](https://www.linkedin.com/in/avbondarev/)
 ### **WORK EXPERIENCE:**
 ------------------------
 #### Reviewer at the Yandex.Practicum "Test Engineer" project
@@ -23,6 +23,7 @@ Riga, Latvia, +371 27856721, avbondarev04@gmail.com, linkedin.com/in/avbondarev/
 * Working with layouts in `Figma`
 * Working with `Git`
 ### **SUMMARY SKILLS:**
+--------------------------
 * English - A2 
 * TestRail, Jira 
 * Figma, Miro, ApiAry, Notion 
@@ -34,7 +35,7 @@ Riga, Latvia, +371 27856721, avbondarev04@gmail.com, linkedin.com/in/avbondarev/
 * Charles 
 * Agile 
 * Git, IDEA
-### **ABOUT**
+### **ABOUT:**
 ---------------------------
 For more than 10 years I have been working in Moscow restaurants as a sous chef. In 2019, I wanted to expand my horizons, signed up for a course on the basics of the python language. After that I took introductory courses in data analysis and software testing (the last one hooked me the most). I read Savin's book, watched a huge number of videos on the topic of QA and realized that I want to grow in this.
 
