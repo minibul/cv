@@ -6,12 +6,14 @@ Riga, Latvia, +371 27856721, avbondarev04@gmail.com, linkedin.com/in/avbondarev/
 ------------------------
 #### Reviewer at the Yandex.Practicum "Test Engineer" project
 [**Yandex**](https://practicum.yandex.ru/qa-engineer/) · Part-time
+
 *Jul 2022 - Present*
 * I check and evaluate students' theses on the basics of testing
 * I give detailed feedback
 --------------------------
 #### QA Engineer
 [**HICE bank**](https://hicebank.ru/) · Full-time
+
 *Jun 2021 - Present*
 * I carry out `functional` and `regression` testing of the backend, `WEB`, and `mobile` applications on `iOS` and `Android`
 * I develop `test plans`, create `test cases` in `TestRail`, writing `checklists`, and document defects in `Jira`
