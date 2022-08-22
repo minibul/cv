@@ -1,6 +1,6 @@
 ## **Anton Bondarev** 
 ----------------------
-### Qa Engineer
+### QA Engineer
 Riga, Latvia, +371 27856721, avbondarev04@gmail.com, [**in**](https://www.linkedin.com/in/avbondarev/)
 ### **WORK EXPERIENCE:**
 ------------------------
