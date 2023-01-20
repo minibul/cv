@@ -1,8 +1,22 @@
-## **Anton Bondarev** 
+## **Anton Bondarev**
 ----------------------
 ### QA Engineer
 Riga, Latvia, +371 27856721, avbondarev04@gmail.com, [**in**](https://www.linkedin.com/in/avbondarev/)
 ### **WORK EXPERIENCE:**
+
+------------------------
+#### QA Lead
+[**Sabregames**](https://www.sabregames.com/) · Full-time
+
+*Oct 2022 - Present*
+* Leading a team of 3 testers
+* Constantly interact with developers, analysts, project manager, and designers
+* I carry out `functional` and `regression` testing of the backend, `WEB`, and `mobile` applications on `iOS` and `Android`
+* I develop `test plans`, create `test cases`, writing `checklists`, and document defects in `Jira`
+* Working with testing and logging systems: `Postman`, `Amazon`, `Charles`, `Devtools`, `Android Studio`, `Firebase`, `PerfectPixel`
+* Working with `PostgreSQL` using `DataGrip`
+* Working with layouts in `Figma`
+* Working with `Git`, `Idea`, `Java`, `Unity`
 ------------------------
 #### Reviewer at the Yandex.Practicum "Test Engineer" project
 [**Yandex**](https://practicum.yandex.ru/qa-engineer/) · Part-time
@@ -24,16 +38,16 @@ Riga, Latvia, +371 27856721, avbondarev04@gmail.com, [**in**](https://www.linked
 * Working with `Git`
 ### **SUMMARY SKILLS:**
 --------------------------
-* English - A2 
-* TestRail, Jira 
-* Figma, Miro, ApiAry, Notion 
-* Postman, REST Api, Json 
-* DataDog 
-* PostgreSQL, DataGrip 
-* iOS, Android, Android Studio 
-* Web, Dewtools, PerfectPixel 
-* Charles 
-* Agile 
+* English - B1
+* TestRail, Jira
+* Figma, Miro, ApiAry, Notion
+* Postman, REST Api, Json
+* DataDog
+* PostgreSQL, DataGrip
+* iOS, Android, Android Studio
+* Web, Devtools, PerfectPixel
+* Charles
+* Agile
 * Git, IDEA
 ### **ABOUT:**
 ---------------------------
