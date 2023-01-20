@@ -47,8 +47,9 @@ Riga, Latvia, +371 27856721, avbondarev04@gmail.com, [**in**](https://www.linked
 * iOS, Android, Android Studio
 * Web, Devtools, PerfectPixel
 * Charles
-* Agile
-* Git, IDEA
+* Agile, Scrum
+* Git, IDEA, Java, Unity
+
 ### **ABOUT:**
 ---------------------------
 For more than 10 years I have been working in Moscow restaurants as a sous chef. In 2019, I wanted to expand my horizons, signed up for a course on the basics of the python language. After that I took introductory courses in data analysis and software testing (the last one hooked me the most). I read Savin's book, watched a huge number of videos on the topic of QA and realized that I want to grow in this.
