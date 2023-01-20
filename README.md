@@ -63,4 +63,4 @@ For more than 10 years I have been working in Moscow restaurants as a sous chef.
 
 In general, it is important for me to work with people who respect themselves, their time and those around them, appreciate order and accuracy, and most importantly, constantly develop.
 
-I love to travel, although I have only been to 17 countries so far. Favorite transport is a bicycle.
+I love to travel, although I have only been to 18 countries so far. Favorite transport is a bicycle.
