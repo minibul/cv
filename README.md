@@ -10,7 +10,7 @@ Riga, Latvia, +371 27856721, avbondarev04@gmail.com, [**in**](https://www.linked
 
 *Oct 2022 - Present*
 * Leading a team of 3 testers
-* Constantly interact with developers, analysts, project manager, and designers
+* Constantly interact with developers, analysts, project managers, and designers
 * I carry out `functional` and `regression` testing of the backend, `WEB`, and `mobile` applications on `iOS` and `Android`
 * I develop `test plans`, create `test cases`, writing `checklists`, and document defects in `Jira`
 * Working with testing and logging systems: `Postman`, `Amazon`, `Charles`, `Devtools`, `Android Studio`, `Firebase`, `PerfectPixel`
@@ -28,12 +28,12 @@ Riga, Latvia, +371 27856721, avbondarev04@gmail.com, [**in**](https://www.linked
 #### QA Engineer
 [**HICE bank**](https://hicebank.ru/) · Full-time
 
-*Jun 2021 - Present*
+*Jun 2021 - Sep 2022*
 * I carry out `functional` and `regression` testing of the backend, `WEB`, and `mobile` applications on `iOS` and `Android`
 * I develop `test plans`, create `test cases` in `TestRail`, writing `checklists`, and document defects in `Jira`
 * Working with testing and logging systems: `Postman`, `ApiAry`, `DataDog`, `Charles`, `Devtools`, `Android Studio`, `Firebase`, `PerfectPixel`
 * Working with `SQL` using select, update, insert, delete queries, including left, right, inner, outer join
-* Constantly interact with developers, analysts, project manager, and designers
+* Constantly interact with developers, analysts, project managers, and designers
 * Working with layouts in `Figma`
 * Working with `Git`
 ### **SUMMARY SKILLS:**
