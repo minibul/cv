@@ -14,7 +14,7 @@ Riga, Latvia, +371 27856721, avbondarev04@gmail.com, [**Telegram**](https://t.me
 * I carry out `functional` and `regression` testing of the backend, `WEB`, and `mobile` applications on `iOS` and `Android`
 * I develop `test plans`, create `test cases`, writing `checklists`, and document defects in `Jira`
 * Working with testing and logging systems: `Postman`, `Amazon`, `Charles`, `Devtools`, `Android Studio`, `Firebase`, `PerfectPixel`
-* Working with `PostgreSQL` using `DataGrip`
+* Working with `PostgreSQL` using `DataGrip`, `pgAdmin`, `TablePlus`
 * Working with layouts in `Figma`
 * Working with `Git`, `Idea`, `Java`, `Unity`
 * Working with `Docker`, `Visual Studio Code`
@@ -44,7 +44,7 @@ Riga, Latvia, +371 27856721, avbondarev04@gmail.com, [**Telegram**](https://t.me
 * Figma, Miro, ApiAry, Notion
 * Postman, REST Api, Json
 * DataDog
-* PostgreSQL, DataGrip
+* PostgreSQL, DataGrip, pgAdmin, TablePlus
 * iOS, Android, Android Studio
 * Web, Devtools, PerfectPixel
 * Charles
