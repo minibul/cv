@@ -29,7 +29,7 @@ Riga, Latvia, +371 27856721, avbondarev04@gmail.com, [**Telegram**](https://t.me
 #### QA Engineer
 [**HICE bank**](https://hicebank.ru/) · Full-time
 
-*Jun 2021 - Sep 2022*
+*Jun 2021 - Oct 2022*
 * I carry out `functional` and `regression` testing of the backend, `WEB`, and `mobile` applications on `iOS` and `Android`
 * I develop `test plans`, create `test cases` in `TestRail`, writing `checklists`, and document defects in `Jira`
 * Working with testing and logging systems: `Postman`, `ApiAry`, `DataDog`, `Charles`, `Devtools`, `Android Studio`, `Firebase`, `PerfectPixel`
