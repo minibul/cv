@@ -43,7 +43,7 @@ Riga, Latvia, +371 27856721, avbondarev04@gmail.com, [**Telegram**](https://t.me
 * Proficient in design tools such as `Figma`, `Miro`, `ApiAry`, and `Notion`.
 * Experience with testing and logging systems including `Postman`, `REST Api`, and `Json`.
 * Proficient in `PostgreSQL`, `DataGrip`, `pgAdmin`, `TablePlus`, `iOS`, `Android`, `Android Studio`, `Web`, `Devtools`, `PerfectPixel`, and `Charles`.
-* Experience with Agile and Scrum methodologies.
+* Experience with `Agile` and `Scrum` methodologies.
 * Proficient in software development tools including `Git`, `IDEA`, `Java`, `Unity`, `Docke`r, and `Visual Studio Code`.
 
 ### **ABOUT:**
