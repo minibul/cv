@@ -52,6 +52,7 @@ For more than 10 years I have been working in Moscow restaurants as a sous chef.
 
 * In the second half of 2020, I signed up for the Yandex.Practicum course ["Test Engineer"](https://practicum.yandex.ru/qa-engineer/), completed it, got a job at HICE Bank and now I am developing in testing.
 * February 2022 I was a listener of the [Podlodka](https://podlodka.io/) QA Crew conference.
+* May 2022 I started the course - [Java Test Automation in Yandex.Practicum.](https://practicum.yandex.ru/qa-automation-engineer-java/)
 * July 2022 I was a listener of the [Podlodka](https://podlodka.io/) SoftSkills Crew conference.
 * In July 2022 successfully passed the selection to the [Yandex](https://practicum.yandex.ru/qa-engineer/) educational project for the role of "Project Reviewer" of the course "Test Engineer".
 * August 2022 I started the course - English B1 level in [NH mācību centrs](https://www.nh.lv/), Riga.
