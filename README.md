@@ -12,6 +12,7 @@ Riga, Latvia, +371 27856721, avbondarev04@gmail.com, [**Telegram**](https://t.me
 * Lead a team of 3 testers to ensure quality of `backend`, `web`, and `mobile applications` on `iOS` and `Android`.
 * Collaborate with developers, analysts, project managers, and designers to identify and resolve issues.
 * Develop `test plans`, create `test cases`, write `checklists`, and document defects in `Jira`.
+* Write `automated tests` in `Java` using `Selenium WebDriver` libraries to improve testing efficiency and coverage.
 * Utilize testing and logging systems such as `Postman`, `Amazon`, `Charles`, `Devtools`, `Android Studio`, `Firebase`, and `PerfectPixel`.
 * Work with `PostgreSQL` using `DataGrip`, `pgAdmin`, and `TablePlus`.
 * Working with layouts in `Figma`.
