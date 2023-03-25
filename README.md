@@ -12,11 +12,10 @@ Riga, Latvia, +371 27856721, avbondarev04@gmail.com, [**Telegram**](https://t.me
 * Lead a team of 3 testers to ensure quality of `backend`, `web`, and `mobile applications` on `iOS` and `Android`.
 * Collaborate with developers, analysts, project managers, and designers to identify and resolve issues.
 * Develop `test plans`, create `test cases`, write `checklists`, and document defects in `Jira`.
-* Write `automated tests` in `Java` using `Selenium WebDriver` libraries to improve testing efficiency and coverage.
+* Write `automated tests` in `Java` using `Selenium` to improve testing efficiency and coverage.
 * Utilize testing and logging systems such as `Postman`, `Amazon`, `Charles`, `Devtools`, `Android Studio`, `Firebase`, and `PerfectPixel`.
-* Work with `PostgreSQL` using `DataGrip`, `pgAdmin`, and `TablePlus`.
+* Work with `PostgreSQL`.
 * Working with layouts in `Figma`.
-* Utilize `Git`, `Idea`, `Java`, `Unity`, `Docker`, and `Visual Studio Code` for software development and testing.
 
 ------------------------
 #### Reviewer at the Yandex.Practicum "Test Engineer" project
@@ -45,20 +44,20 @@ Riga, Latvia, +371 27856721, avbondarev04@gmail.com, [**Telegram**](https://t.me
 * Experience with testing and logging systems including `Postman`, `REST Api`, and `Json`.
 * Proficient in `PostgreSQL`, `DataGrip`, `pgAdmin`, `TablePlus`, `iOS`, `Android`, `Android Studio`, `Web`, `Devtools`, `PerfectPixel`, and `Charles`.
 * Experience with `Agile` and `Scrum` methodologies.
-* Proficient in software development tools including `Git`, `IDEA`, `Java`, `Unity`, `Docke`r, and `Visual Studio Code`.
-
-### **ABOUT:**
----------------------------
-For more than 10 years I have been working in Moscow restaurants as a sous chef. In 2019, I wanted to expand my horizons, signed up for a course on the basics of the python language. After that I took introductory courses in data analysis and software testing (the last one hooked me the most). I read Savin's book, watched a huge number of videos on the topic of QA and realized that I want to grow in this.
-
+* Proficient in software development tools including `Git`, `IDEA`, `Java`, `Unity Engine`, `Docker`, and `Visual Studio Code`.
+### **PROFESSIONAL DEVELOPMENT:**
+-------------------------
 * In the second half of 2020, I signed up for the Yandex.Practicum course ["Test Engineer"](https://practicum.yandex.ru/qa-engineer/), completed it, got a job at HICE Bank and now I am developing in testing.
 * February 2022 I was a listener of the [Podlodka](https://podlodka.io/) QA Crew conference.
 * May 2022 I started the course - [Java Test Automation in Yandex.Practicum.](https://practicum.yandex.ru/qa-automation-engineer-java/)
 * July 2022 I was a listener of the [Podlodka](https://podlodka.io/) SoftSkills Crew conference.
 * In July 2022 successfully passed the selection to the [Yandex](https://practicum.yandex.ru/qa-engineer/) educational project for the role of "Project Reviewer" of the course "Test Engineer".
-* August 2022 I started the course - English B1 level in [NH mācību centrs](https://www.nh.lv/), Riga.
+* August 2022 I started the course - English B1 level in [NH mācību centrs](https://www.nh.lv/), Riga. *(Completed: December 2022)*
 * August 2022 I was a listener of the [Podlodka](https://podlodka.io/) QA Crew conference.
-* November 2022 I was a listener of the [Podlodka](https://podlodka.io/) Teamlead Crew conference.
+* November 2022 I was a listener of the [Podlodka](https://podlodka.io/) TeamLead Crew conference.
+### **ABOUT:**
+---------------------------
+For more than 10 years I have been working in Moscow restaurants as a sous chef. In 2019, I wanted to expand my horizons, signed up for a course on the basics of the python language. After that I took introductory courses in data analysis and software testing (the last one hooked me the most). I read Savin's book, watched a huge number of videos on the topic of QA and realized that I want to grow in this.
 
 In general, I value working with people who respect themselves, their time, and those around them and appreciate order and accuracy, but most importantly, are always eager to learn and develop.
 
