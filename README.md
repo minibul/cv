@@ -1,7 +1,13 @@
 ## **Anton Bondarev**
+
 ----------------------
 ### QA Engineer
 Riga, Latvia, +371 27856721, avbondarev04@gmail.com, [**Telegram**](https://t.me/antonsbondarev), [**in**](https://www.linkedin.com/in/avbondarev/), [**f**](https://www.facebook.com/avbondarev04)
+### SUMMARY:
+
+------------------------
+*QA Engineer with experience in web and mobile application testing, proficient in Java and Selenium for test automation. Seeking opportunities to further develop automation testing skills and contribute to high-quality software products.*
+
 ### **WORK EXPERIENCE:**
 
 ------------------------
@@ -12,7 +18,7 @@ Riga, Latvia, +371 27856721, avbondarev04@gmail.com, [**Telegram**](https://t.me
 * Lead a team of 3 testers to ensure quality of `backend`, `web`, and `mobile applications` on `iOS` and `Android`.
 * Collaborate with developers, analysts, project managers, and designers to identify and resolve issues.
 * Develop `test plans`, create `test cases`, write `checklists`, and document defects in `Jira`.
-* Write `automated tests` in `Java` using `Selenium` to improve testing efficiency and coverage.
+* Implemented automated tests in `Java` using `Selenium` for the product website, improving testing efficiency and coverage.
 * Utilize testing and logging systems such as `Postman`, `Amazon`, `Charles`, `Devtools`, `Android Studio`, `Firebase`, and `PerfectPixel`.
 * Work with `PostgreSQL`.
 * Working with layouts in `Figma`.
@@ -24,6 +30,7 @@ Riga, Latvia, +371 27856721, avbondarev04@gmail.com, [**Telegram**](https://t.me
 *Jul 2022 - Present*
 * Check and evaluate students' theses on the basics of testing.
 * Provide detailed feedback to improve their skills.
+
 --------------------------
 #### QA Engineer
 [**HICE bank**](https://hicebank.ru/) · Full-time
@@ -37,15 +44,19 @@ Riga, Latvia, +371 27856721, avbondarev04@gmail.com, [**Telegram**](https://t.me
 * Working with layouts in `Figma`.
 * Utilized `Git` for software development and testing.
 ### **SUMMARY SKILLS:**
+
 --------------------------
 * English - B1
-* Experience with test management tools such as `TestRail` and `Jira`.
-* Proficient in design tools such as `Figma`, `Miro`, `ApiAry`, and `Notion`.
-* Experience with testing and logging systems including `Postman`, `REST Api`, and `Json`.
-* Proficient in `PostgreSQL`, `DataGrip`, `pgAdmin`, `TablePlus`, `iOS`, `Android`, `Android Studio`, `Web`, `Devtools`, `PerfectPixel`, and `Charles`.
-* Experience with `Agile` and `Scrum` methodologies.
-* Proficient in software development tools including `Git`, `IDEA`, `Java`, `Unity Engine`, `Docker`, and `Visual Studio Code`.
+* Test management tools: `TestRail`, `Jira`
+* Design and collaboration tools: `Figma`, `Miro`, `Notion`
+* API design and documentation: `Apiary`, `Swagger`
+* Testing and logging tools: `Postman`, `REST API`, `JSON`, `Charles`
+* Databases: `PostgreSQL` 
+* Platforms and development tools: `iOS`, `Android`, `Android Studio`, `DevTools`, `PerfectPixel`
+* Methodologies: `Agile`, `Scrum`
+* Software development tools: `Git`, `IntelliJ IDEA`, `Java`, `Unity Engine`, `Docker`, `Visual Studio Code`
 ### **PROFESSIONAL DEVELOPMENT:**
+
 -------------------------
 * In the second half of 2020, I signed up for the Yandex.Practicum course ["Test Engineer"](https://practicum.yandex.ru/qa-engineer/), completed it, got a job at HICE Bank and now I am developing in testing.
 * February 2022 I was a listener of the [Podlodka](https://podlodka.io/) QA Crew conference.
@@ -56,6 +67,7 @@ Riga, Latvia, +371 27856721, avbondarev04@gmail.com, [**Telegram**](https://t.me
 * August 2022 I was a listener of the [Podlodka](https://podlodka.io/) QA Crew conference.
 * November 2022 I was a listener of the [Podlodka](https://podlodka.io/) TeamLead Crew conference.
 ### **ABOUT:**
+
 ---------------------------
 For more than 10 years I have been working in Moscow restaurants as a sous chef. In 2019, I wanted to expand my horizons, signed up for a course on the basics of the python language. After that I took introductory courses in data analysis and software testing (the last one hooked me the most). I read Savin's book, watched a huge number of videos on the topic of QA and realized that I want to grow in this.
 
