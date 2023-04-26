@@ -1,7 +1,7 @@
 ## **Anton Bondarev**
 
 ### QA Engineer
-Riga, Latvia, +371 27856721, avbondarev04@gmail.com, [**Telegram**](https://t.me/antonsbondarev), [**in**](https://www.linkedin.com/in/avbondarev/), [**fb**](https://www.facebook.com/avbondarev04)
+Riga, Latvia, +371 27856721, avbondarev04@gmail.com, [**Telegram**](https://t.me/antonsbondarev), [**Linkedin**](https://www.linkedin.com/in/avbondarev/), [**Facebook**](https://www.facebook.com/avbondarev04)
 ### SUMMARY:
 
 ------------------------
@@ -17,10 +17,11 @@ QA Engineer with experience in web and mobile application testing, proficient in
 * Lead a team of 3 testers to ensure quality of `backend`, `web`, and `mobile applications` on `iOS` and `Android`.
 * Collaborate with developers, analysts, project managers, and designers to identify and resolve issues.
 * Develop `test plans`, create `test cases`, write `checklists`, and document defects in `Jira`.
+* Introduced and integrated automated testing for the `Unity` project on platforms such as `Android`, `Windows`, and `macOS`, utilizing `Java` and the `Alttester` library
 * Implemented automated tests in `Java` using `Selenium` for the product website, improving testing efficiency and coverage.
 * Utilize testing and logging systems such as `Postman`, `Amazon`, `Charles`, `Devtools`, `Android Studio`, `Firebase`, and `PerfectPixel`.
 * Work with `PostgreSQL`.
-* Working with layouts in `Figma`.
+
 
 ------------------------
 #### Reviewer at the Yandex.Practicum "Test Engineer" project
@@ -58,13 +59,13 @@ QA Engineer with experience in web and mobile application testing, proficient in
 
 -------------------------
 * In the second half of 2020, I signed up for the Yandex.Practicum course ["Test Engineer"](https://practicum.yandex.ru/qa-engineer/), completed it, got a job at HICE Bank and now I am developing in testing.
-* February 2022 I was a listener of the [Podlodka](https://podlodka.io/) QA Crew conference.
+* February 2022 I was a listener of the [Podlodka](https://podlodka.io/) **QA** Crew conference.
 * May 2022 I started the course - [Java Test Automation in Yandex.Practicum.](https://practicum.yandex.ru/qa-automation-engineer-java/)
-* July 2022 I was a listener of the [Podlodka](https://podlodka.io/) SoftSkills Crew conference.
-* In July 2022 successfully passed the selection to the [Yandex](https://practicum.yandex.ru/qa-engineer/) educational project for the role of "Project Reviewer" of the course "Test Engineer".
-* August 2022 I started the course - English B1 level in [NH mācību centrs](https://www.nh.lv/), Riga. *(Completed: December 2022)*
-* August 2022 I was a listener of the [Podlodka](https://podlodka.io/) QA Crew conference.
-* November 2022 I was a listener of the [Podlodka](https://podlodka.io/) TeamLead Crew conference.
+* July 2022 I was a listener of the [Podlodka](https://podlodka.io/) **SoftSkills** Crew conference.
+* In July 2022 successfully passed the selection to the [Yandex](https://practicum.yandex.ru/qa-engineer/) educational project for the role of **"Project Reviewer"** of the course "Test Engineer".
+* August 2022 I started the course - **English B1** level in [NH mācību centrs](https://www.nh.lv/), Riga. *(Completed: December 2022)*
+* August 2022 I was a listener of the [Podlodka](https://podlodka.io/) **QA** Crew conference.
+* November 2022 I was a listener of the [Podlodka](https://podlodka.io/) **TeamLead** Crew conference.
 ### **ABOUT:**
 
 ---------------------------
