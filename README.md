@@ -1,7 +1,7 @@
 ## **Anton Bondarev**
 
 ### QA Engineer
-Riga, Latvia, +371 27856721, avbondarev04@gmail.com, [**Telegram**](https://t.me/antonsbondarev), [**Linkedin**](https://www.linkedin.com/in/avbondarev/), [**Facebook**](https://www.facebook.com/avbondarev04), [**Github**](https://github.com/minibul/cv)
+Riga, Latvia, +371 27856721, avbondarev04@gmail.com, [**Telegram**](https://t.me/antonsbondarev), [**Linkedin**](https://www.linkedin.com/in/avbondarev/), [**Facebook**](https://www.facebook.com/avbondarev04), [**Instagram**](https://www.instagram.com/minibuls_/), [**Github**](https://github.com/minibul/cv)
 ### SUMMARY:
 
 ------------------------
