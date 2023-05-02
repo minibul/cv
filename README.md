@@ -27,7 +27,7 @@ QA Engineer with experience in web and mobile application testing, proficient in
 #### Reviewer at the Yandex.Practicum "Test Engineer" project
 [**Yandex**](https://practicum.yandex.ru/qa-engineer/) · Part-time
 
-*Jul 2022 - Present*
+*Jul 2022 - May 2023*
 * Check and evaluate students' theses on the basics of testing.
 * Provide detailed feedback to improve their skills.
 
