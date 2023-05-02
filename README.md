@@ -1,7 +1,7 @@
 ## **Anton Bondarev**
 
 ### QA Engineer
-Riga, Latvia, +371 27856721, avbondarev04@gmail.com, [**Telegram**](https://t.me/antonsbondarev), [**Linkedin**](https://www.linkedin.com/in/avbondarev/), [**Facebook**](https://www.facebook.com/avbondarev04)
+Riga, Latvia, +371 27856721, avbondarev04@gmail.com, [**Telegram**](https://t.me/antonsbondarev), [**Linkedin**](https://www.linkedin.com/in/avbondarev/), [**Facebook**](https://www.facebook.com/avbondarev04), [**Instagram**](https://www.instagram.com/minibuls_/), [**Github**](https://github.com/minibul/cv)
 ### SUMMARY:
 
 ------------------------
@@ -17,7 +17,7 @@ QA Engineer with experience in web and mobile application testing, proficient in
 * Lead a team of 3 testers to ensure quality of `backend`, `web`, and `mobile applications` on `iOS` and `Android`.
 * Collaborate with developers, analysts, project managers, and designers to identify and resolve issues.
 * Develop `test plans`, create `test cases`, write `checklists`, and document defects in `Jira`.
-* Introduced and integrated automated testing for the `Unity` project on platforms such as `Android`, `Windows`, and `macOS`, utilizing `Java` and the `Alttester` library
+* Introduced and integrated automated testing for the `Unity` project on platforms such as `Android`, `Windows`, and `macOS`, utilizing `Java` and the `Alttester` library.
 * Implemented automated tests in `Java` using `Selenium` for the product website, improving testing efficiency and coverage.
 * Utilize testing and logging systems such as `Postman`, `Amazon`, `Charles`, `Devtools`, `Android Studio`, `Firebase`, and `PerfectPixel`.
 * Work with `PostgreSQL`.
@@ -69,9 +69,9 @@ QA Engineer with experience in web and mobile application testing, proficient in
 ### **ABOUT:**
 
 ---------------------------
-For more than 10 years I have been working in Moscow restaurants as a sous chef. In 2019, I wanted to expand my horizons, signed up for a course on the basics of the python language. After that I took introductory courses in data analysis and software testing (the last one hooked me the most). I read Savin's book, watched a huge number of videos on the topic of QA and realized that I want to grow in this.
+For more than 10 years I have been working in Moscow restaurants as a sous chef. In 2019, I wanted to expand my horizons and signed up for a course on the basics of Python. After that, I took introductory courses in data analysis and software testing (the last one hooked me the most). I read Savin's book, watched a huge number of videos on the topic of QA, and realized that I want to grow in this.
 
 In general, I value working with people who respect themselves, their time, and those around them and appreciate order and accuracy, but most importantly, are always eager to learn and develop.
 
-I love to travel, although I have only been to 18 countries so far. Favorite transport is a bicycle.
+I love to travel, although I have only been to 18 countries so far. My favorite transport is a bicycle.
 
