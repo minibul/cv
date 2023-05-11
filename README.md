@@ -14,7 +14,9 @@ QA Engineer with experience in web and mobile application testing, proficient in
 [**Sabregames**](https://www.sabregames.com/) · Full-time
 
 *Oct 2022 - Present*
-* Lead a team of 3 testers to ensure quality of `backend`, `web`, and `mobile applications` on `iOS` and `Android`.
+* Lead a team of 4 testers to ensure quality of `backend`, `web`, and `mobile applications` on `iOS` and `Android`.
+* Prioritize tasks and allocate them effectively among the testing team.
+* Conduct training sessions for testers to enhance their skills and knowledge.
 * Collaborate with developers, analysts, project managers, and designers to identify and resolve issues.
 * Develop `test plans`, create `test cases`, write `checklists`, and document defects in `Jira`.
 * Introduced and integrated automated testing for the `Unity` project on platforms such as `Android`, `Windows`, and `macOS`, utilizing `Java` and the `Alttester` library.
@@ -47,14 +49,20 @@ QA Engineer with experience in web and mobile application testing, proficient in
 
 --------------------------
 * English - B1
-* Test management tools: `TestRail`, `Jira`
-* Design and collaboration tools: `Figma`, `Miro`, `Notion`
-* API design and documentation: `Apiary`, `Swagger`
-* Testing and logging tools: `Postman`, `REST API`, `JSON`, `Charles`
-* Databases: `PostgreSQL` 
-* Platforms and development tools: `iOS`, `Android`, `Android Studio`, `DevTools`, `PerfectPixel`
-* Methodologies: `Agile`, `Scrum`
-* Software development tools: `Git`, `IntelliJ IDEA`, `Java`, `Unity Engine`, `Docker`, `Visual Studio Code`
+* Proficiency in test automation with `Java`, `Selenium`, and `Alttester` library.
+* Test management tools: `TestRail`, `Jira`.
+* Design and collaboration tools: `Figma`, `Miro`, `Notion`.
+* API design and documentation: `Apiary`, `Swagger`.
+* Testing and logging tools: `Postman`, `REST API`, `JSON`, `Charles`.
+* Databases: `PostgreSQL`.
+* Platforms and development tools: `iOS`, `Android`, `Android Studio`, `DevTools`, `PerfectPixel`.
+* Agile methodologies: `Agile`, `Scrum`.
+* Software development tools: `Git`, `IntelliJ IDEA`, `Java`, `Unity Engine`, `Docker`, `Visual Studio Code`.
+* Strong leadership and team management skills.
+* Excellent cross-functional communication skills.
+* Experienced in training and mentorship.
+* Strong problem-solving skills.
+
 ### **PROFESSIONAL DEVELOPMENT:**
 
 -------------------------
