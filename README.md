@@ -5,8 +5,7 @@ Riga, Latvia, +371 27856721, avbondarev04@gmail.com, [**Linkedin**](https://www.
 ### SUMMARY:
 
 ------------------------
-QA Engineer with experience in web and mobile application testing, proficient in Java and Selenium for test automation. Seeking opportunities to further develop automation testing skills and contribute to high-quality software products.
-
+QA Engineer with 3 years of experience in web and mobile application testing. Demonstrated leadership skills, as showcased in my role at Sabregames, where I trained and managed a team of 4 testers and took initial steps into test automation with Java and Selenium. Keen on expanding my automation knowledge, I am actively seeking opportunities to further hone these skills while ensuring the delivery of high-quality software products.
 ### WORK EXPERIENCE:
 
 ------------------------
