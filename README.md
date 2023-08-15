@@ -14,7 +14,7 @@ QA Engineer with experience in web and mobile application testing, proficient in
 [**Sabregames**](https://www.sabregames.com/) · Full-time
 
 *Oct 2022 - Present*
-* Leading a team of 4 testers to ensure quality of backend, web, and mobile applications on iOS and Android.
+* Trained a team of 4 testers to ensure quality of backend, web, and mobile applications on iOS and Android.
 * Prioritizing tasks and allocating them effectively among the testing team.
 * Conducting training sessions for testers to enhance their skills and knowledge.
 * Collaborating with developers, analysts, project managers, and designers to identify and resolve issues.
