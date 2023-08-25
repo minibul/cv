@@ -21,11 +21,35 @@ Leadership & Management:
 Training & Collaboration:
 * Conducted training sessions for testers, leading to improved skills and knowledge.
 * Actively collaborated with developers and other project stakeholders, speeding up issue identification and resolution.
+* Regularly enriched the project's Wikipedia with tutorials on tool setup and detailed functional descriptions, serving as a valuable resource for the team.
 
-Technical Expertise:
-* Implemented automated testing for the Unity project and the product website, which not only enhanced testing efficiency and coverage but also freed up a manual tester to focus on other critical tasks.
-* Successfully employed tools such as Postman, Amazon, Charles, Devtools, Android Studio, Firebase, and PerfectPixel for deeper and more efficient testing.
-* Efficiently worked with PostgreSQL, ensuring reliable data testing.
+Technical Expertise & Efficiency:
+* Introduced automated testing for the Unity project and the product website. This not only enhanced testing efficiency and coverage but also optimized resource allocation by freeing up a manual tester to tackle other critical tasks.
+* Authored comprehensive test documentation from scratch, establishing a robust foundation for the project's quality assurance processes.
+* Employed advanced tools such as Postman, Charles, Devtools and others, facilitating deeper and more efficient testing.
+* Demonstrated proficiency in working with PostgreSQL, ensuring accurate and reliable data testing.
+
+[//]: # (Leadership & Management:)
+
+[//]: # (* Successfully led a team of 4 testers, ensuring high-quality backend, web, and mobile applications on iOS and Android.)
+
+[//]: # (* Effectively allocated tasks among the team, accelerating the testing process.)
+
+[//]: # ()
+[//]: # (Training & Collaboration:)
+
+[//]: # (* Conducted training sessions for testers, leading to improved skills and knowledge.)
+
+[//]: # (* Actively collaborated with developers and other project stakeholders, speeding up issue identification and resolution.)
+
+[//]: # ()
+[//]: # (Technical Expertise:)
+
+[//]: # (* Implemented automated testing for the Unity project and the product website, which not only enhanced testing efficiency and coverage but also freed up a manual tester to focus on other critical tasks.)
+
+[//]: # (* Successfully employed tools such as Postman, Amazon, Charles, Devtools, Android Studio, Firebase, and PerfectPixel for deeper and more efficient testing.)
+
+[//]: # (* Efficiently worked with PostgreSQL, ensuring reliable data testing.)
 
 [//]: # (QA Strategy & Processes:)
 
