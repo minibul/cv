@@ -5,29 +5,30 @@ Riga, Latvia, [**Telegram**](https://t.me/antonsbondarev), avbondarev04@gmail.co
 ### SUMMARY:
 
 ------------------------
-QA Engineer with 3 years of experience in web and mobile application testing, including both frontend and backend. Demonstrated leadership skills, as showcased in my role at Sabregames, where I trained and managed a team of 4 testers and took initial steps into test automation with Java and Selenium. Keen on expanding my automation knowledge, I am actively seeking opportunities to further hone these skills while ensuring the delivery of high-quality software products.
+QA Engineer with 3 years of experience in web and mobile application testing. Demonstrated leadership skills, as showcased in my role at SolertGames, where I trained and managed a team of 4 testers and took initial steps into test automation with Java and Selenium. Keen to expand my automation knowledge, I am actively seeking opportunities to hone these skills further while ensuring the delivery of high-quality software products.
 ### WORK EXPERIENCE:
 
 ------------------------
 #### QA Lead
-[**Sabregames**](https://www.sabregames.com/) · Full-time
+[**SolertGames**](https://www.sabregames.com/) · Full-time
 
 *Oct 2022 - Present*
 
+SolertGames (backend, web, and mobile applications on iOS and Android)
+
+Technical Expertise & Efficiency:
+* Authored comprehensive test documentation from scratch, establishing a robust foundation for the project's quality assurance processes.
+* Employed advanced tools such as Postman, Charles, Devtools and others, facilitating deeper and more efficient testing.
+* Demonstrated proficiency in working with PostgreSQL, ensuring accurate and reliable data testing.
+* Introduced automated testing for the Unity project and the product website. This not only enhanced testing efficiency and coverage but also optimized resource allocation by freeing up a manual tester to tackle other critical tasks.
+
 Leadership & Management:
-* Successfully led a team of 4 testers, ensuring high-quality backend, web, and mobile applications on iOS and Android.
-* Effectively allocated tasks among the team, accelerating the testing process.
+* Successfully led a team of 4 testers, effectively allocated tasks among the team, accelerating the testing process.
 
 Training & Collaboration:
 * Conducted training sessions for testers, leading to improved skills and knowledge.
 * Actively collaborated with developers and other project stakeholders, speeding up issue identification and resolution.
 * Regularly enriched the project's Wikipedia with tutorials on tool setup and detailed functional descriptions, serving as a valuable resource for the team.
-
-Technical Expertise & Efficiency:
-* Introduced automated testing for the Unity project and the product website. This not only enhanced testing efficiency and coverage but also optimized resource allocation by freeing up a manual tester to tackle other critical tasks.
-* Authored comprehensive test documentation from scratch, establishing a robust foundation for the project's quality assurance processes.
-* Employed advanced tools such as Postman, Charles, Devtools and others, facilitating deeper and more efficient testing.
-* Demonstrated proficiency in working with PostgreSQL, ensuring accurate and reliable data testing.
 
 [//]: # (Leadership & Management:)
 
