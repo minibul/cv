@@ -71,7 +71,7 @@ Training & Collaboration:
 ### SUMMARY SKILLS:
 
 --------------------------
-English - B1
+* English - B1
 
 Technical Skills:
 * Test management tools: TestRail, Jira.
