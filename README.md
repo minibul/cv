@@ -1,6 +1,6 @@
 ## Anton Bondarev
 
-### QA Senior | QA Lead
+### QA Engineer | QA Lead
 Riga, Latvia, [**Telegram**](https://t.me/antonsbondarev), avbondarev04@gmail.com, [**Linkedin**](https://www.linkedin.com/in/avbondarev/), [**Github**](https://github.com/minibul/cv), +371 27856721
 ### SUMMARY:
 
