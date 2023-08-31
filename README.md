@@ -1,6 +1,6 @@
 ## Anton Bondarev
 
-### QA Engineer
+### QA Senior | QA Lead
 Riga, Latvia, [**Telegram**](https://t.me/antonsbondarev), avbondarev04@gmail.com, [**Linkedin**](https://www.linkedin.com/in/avbondarev/), [**Github**](https://github.com/minibul/cv), +371 27856721
 ### SUMMARY:
 
@@ -14,10 +14,10 @@ QA Engineer with 3 years of experience in web and mobile application testing. De
 
 *Oct 2022 - Present*
 
-SolertGames (backend, web, and mobile applications on iOS and Android)
+SolertGames (web, desktop and mobile applications on iOS and Android)
 
 Technical Expertise & Efficiency:
-* Authored comprehensive test documentation from scratch, establishing a robust foundation for the project's quality assurance processes.
+* Authored comprehensive test documentation from scratch, establishing a robust foundation for the project's quality assurance processes and knowledge sharing between teams.
 * Employed advanced tools such as Postman, Charles, Devtools and others, facilitating deeper and more efficient testing.
 * Demonstrated proficiency in working with PostgreSQL, ensuring accurate and reliable data testing.
 * Introduced automated testing for the Unity project and the product website. This not only enhanced testing efficiency and coverage but also optimized resource allocation by freeing up a manual tester to tackle other critical tasks.
@@ -30,76 +30,6 @@ Training & Collaboration:
 * Actively collaborated with developers and other project stakeholders, speeding up issue identification and resolution.
 * Regularly enriched the project's Wikipedia with tutorials on tool setup and detailed functional descriptions, serving as a valuable resource for the team.
 
-[//]: # (Leadership & Management:)
-
-[//]: # (* Successfully led a team of 4 testers, ensuring high-quality backend, web, and mobile applications on iOS and Android.)
-
-[//]: # (* Effectively allocated tasks among the team, accelerating the testing process.)
-
-[//]: # ()
-[//]: # (Training & Collaboration:)
-
-[//]: # (* Conducted training sessions for testers, leading to improved skills and knowledge.)
-
-[//]: # (* Actively collaborated with developers and other project stakeholders, speeding up issue identification and resolution.)
-
-[//]: # ()
-[//]: # (Technical Expertise:)
-
-[//]: # (* Implemented automated testing for the Unity project and the product website, which not only enhanced testing efficiency and coverage but also freed up a manual tester to focus on other critical tasks.)
-
-[//]: # (* Successfully employed tools such as Postman, Amazon, Charles, Devtools, Android Studio, Firebase, and PerfectPixel for deeper and more efficient testing.)
-
-[//]: # (* Efficiently worked with PostgreSQL, ensuring reliable data testing.)
-
-[//]: # (QA Strategy & Processes:)
-
-[//]: # ()
-[//]: # (* Defined and executed an organization-wide QA strategy, aligned with product and development objectives.)
-
-[//]: # (* Established quality benchmarks and refined QA processes in collaboration with the leadership.)
-
-[//]: # (* Introduced pivotal quality metrics and continuously monitored their adherence.)
-
-[//]: # (* Conducted workshops focused on test design and testing strategy.)
-
-[//]: # ()
-[//]: # (QA Leadership:)
-
-[//]: # ()
-[//]: # (* Led and mentored a team of 4 QA engineers, facilitating their growth and managing promotions, interviews, and reviews.)
-
-[//]: # (* Coordinated effectively with developers, ensuring seamless workflow and prompt issue resolutions.)
-
-[//]: # ()
-[//]: # (QA Management & Documentation:)
-
-[//]: # ()
-[//]: # (* Oversaw the entire QA lifecycle, from strategy design to release management, in a fast-paced company environment.)
-
-[//]: # (* Prioritized team education, conducting one-on-one sessions and overseeing the career trajectory of QA engineers.)
-
-[//]: # (* Ensured comprehensive test documentation and collaborated closely with the product team for optimal results.)
-
-
-
-[//]: # (* Trained a team of 4 testers to ensure quality of backend, web, and mobile applications on iOS and Android.)
-
-[//]: # (* Prioritizing tasks and allocating them effectively among the testing team.)
-
-[//]: # (* Conducting training sessions for testers to enhance their skills and knowledge.)
-
-[//]: # (* Collaborating with developers, analysts, project managers, and designers to identify and resolve issues.)
-
-[//]: # (* Developing test plans, creating test cases, writing checklists, and documenting defects in Jira.)
-
-[//]: # (* Introduced and integrated automated testing for the Unity project on platforms such as Android, Windows, and macOS, utilizing Java and the Alttester library.)
-
-[//]: # (* Implemented automated tests in Java using Selenium for the product website, improving testing efficiency and coverage.)
-
-[//]: # (* Utilizing testing and logging systems such as Postman, Amazon, Charles, Devtools, Android Studio, Firebase, and PerfectPixel.)
-
-[//]: # (* Working with PostgreSQL.)
 
 
 ------------------------
@@ -107,8 +37,10 @@ Training & Collaboration:
 [**Yandex**](https://practicum.yandex.ru/qa-engineer/) · Part-time
 
 *Jul 2022 - May 2023*
-* Checked and evaluated students' theses on the basics of testing.
-* Provided detailed feedback to improve their skills.
+* Mentored over 100 aspiring QA engineers.
+* Reviewed and evaluated students' theses on the basics of testing.
+* Provided detailed feedback to enhance their skills.
+* Offered guidance for the successful defense of their theses.
 
 --------------------------
 #### QA Engineer
@@ -141,6 +73,8 @@ Training & Collaboration:
 ### SUMMARY SKILLS:
 
 --------------------------
+English - B1
+
 Technical Skills:
 * Test management tools: TestRail, Jira.
 * Design and collaboration tools: Figma, Miro, Notion.
@@ -161,7 +95,21 @@ Management and Communication Skills:
 ### PROFESSIONAL DEVELOPMENT:
 
 -------------------------
-Participated in multiple professional development activities including QA conferences, English language courses, and advanced technical training such as Java Test Automation.
+* In the second half of 2020, I signed up for the [**Yandex.Practicum course "Test Engineer"**](https://practicum.yandex.ru/qa-engineer/), completed it,
+got a job at [**HICE bank**](https://hicebank.ru/) and now I am developing in testing.
+* February 2022 I was a listener of the [**Podlodka**](https://podlodka.io/) QA Crew conference.
+* May 2022 I started the course - [**Java Test Automation in Yandex.Practicum**](https://practicum.yandex.ru/qa-automation-engineer-java/).
+* July 2022 I was a listener of the [**Podlodka**](https://podlodka.io/) SoftSkills Crew conference.
+* In July 2022 successfully passed the selection to the Yandex educational project for the role of "Project
+Reviewer" of the course [**"Test Engineer"**](https://practicum.yandex.ru/qa-engineer/).
+* August 2022 I was a listener of the [**Podlodka**](https://podlodka.io/) QA Crew conference.
+* November 2022 I was a listener of the [**Podlodka**](https://podlodka.io/) TeamLead Crew conference.
+* December 2022 I was a listener of the [**Podlodka**](https://podlodka.io/) QA Crew conference(*Advanced Skills for QA*).
+* December 2022 I finished the course - English B1 level in [**NH mācību centrs**](https://www.nh.lv/), Riga.
+* April 2023 I was a listener of the [**Podlodka**](https://podlodka.io/) QA Crew conference(*Backend testing*).
+* August 2023 I finished the course - [**Automation of testing Java + Selenium + TestNGAutomation on Udemy**](https://www.udemy.com/certificate/UC-f629d90e-d080-4b9b-89f4-a6d383024d09/).
+* September 2023 I'm listening of the [**Podlodka**](https://podlodka.io/) QA Crew conference(*Ratings and metrics*).
+
 ### ABOUT:
 
 ---------------------------
