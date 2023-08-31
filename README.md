@@ -14,8 +14,6 @@ QA Engineer with 3 years of experience in web and mobile application testing. De
 
 *Oct 2022 - Present*
 
-SolertGames (web, desktop and mobile applications on iOS and Android)
-
 Technical Expertise & Efficiency:
 * Authored comprehensive test documentation from scratch, establishing a robust foundation for the project's quality assurance processes and knowledge sharing between teams.
 * Employed advanced tools such as Postman, Charles, Devtools and others, facilitating deeper and more efficient testing.
