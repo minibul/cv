@@ -5,7 +5,7 @@ Riga, Latvia, [**Telegram**](https://t.me/antonsbondarev), avbondarev04@gmail.co
 ### SUMMARY:
 
 ------------------------
-QA Engineer with 3 years of experience in web and mobile application testing. Demonstrated leadership skills, as showcased in my role at SolertGames, where I trained and managed a team of 4 testers and took initial steps into test automation with Java and Selenium. Keen to expand my automation knowledge, I am actively seeking opportunities to hone these skills further while ensuring the delivery of high-quality software products.
+QA Engineer with 3 years of experience in web and mobile application testing. Demonstrated leadership skills, as showcased in my role at SolertGames, where I trained and managed a team of 4 testers and took initial steps into test automation with Java and Selenium.
 ### WORK EXPERIENCE:
 
 ------------------------
