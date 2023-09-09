@@ -106,7 +106,7 @@ Reviewer" of the course [**"Test Engineer"**](https://practicum.yandex.ru/qa-eng
 * December 2022 I finished the course - English B1 level in [**NH mācību centrs**](https://www.nh.lv/), Riga.
 * April 2023 I was a listener of the [**Podlodka**](https://podlodka.io/) QA Crew conference(*Backend testing*).
 * August 2023 I finished the course - [**Automation of testing Java + Selenium + TestNGAutomation on Udemy**](https://www.udemy.com/certificate/UC-f629d90e-d080-4b9b-89f4-a6d383024d09/).
-* September 2023 I'm listening of the [**Podlodka**](https://podlodka.io/) QA Crew conference(*Ratings and metrics*).
+* September 2023 I was a listener of the [**Podlodka**](https://podlodka.io/) QA Crew conference(*Ratings and metrics*).
 
 ### ABOUT:
 
