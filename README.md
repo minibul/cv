@@ -18,7 +18,7 @@ Technical Expertise & Efficiency:
 * Authored comprehensive test documentation from scratch, establishing a robust foundation for the project's quality assurance processes and knowledge sharing between teams.
 * Employed advanced tools such as Postman, Charles, Devtools and others, facilitating deeper and more efficient testing.
 * Demonstrated proficiency in working with PostgreSQL, ensuring accurate and reliable data testing.
-* Introduced automated testing for the Unity project and the product website. This not only enhanced testing efficiency and coverage but also optimized resource allocation by freeing up a manual tester to tackle other critical tasks.
+*  Introduced automated testing for the Unity project and the product website. As a result, we were able to cover 90% of smoke tests through automation.
 
 Leadership & Management:
 * Successfully led a team of 4 testers, effectively allocated tasks among the team, accelerating the testing process.
